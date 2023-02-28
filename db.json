@@ -29,6 +29,39 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
-    }
+    },
+      {
+    id: 123455,
+    category: 'mhuka',
+    title: 'Mbudzi mudanga',
+    description: 'Mbudzi yadhura',
+    location: 'Chiredzi',
+    date: 'February 18, 2023',
+    time: '11:30',
+    petsAllowed: true,
+    organizer: 'Makhumalo Mlambo',
+  },
+  {
+    id: 123457,
+    category: 'mhuka',
+    title: 'Makudo mukomo',
+    description: 'Mukanya anodya chibawe',
+    location: 'Chivhu',
+    date: 'February 14, 2023',
+    time: '10:00',
+    petsAllowed: true,
+    organizer: 'Sake Matoo',
+  },
+  {
+    id: 123456,
+    category: 'mhuka',
+    title: 'Shumba Nhasi pano',
+    description: 'Mazino ayo anocheka nyama',
+    location: 'Charewa',
+    date: 'February 21, 2023',
+    time: '14:00',
+    petsAllowed: true,
+    organizer: 'Shuto Chamba',
+  }
   ]
 }
